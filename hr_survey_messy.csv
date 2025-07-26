@@ -1,0 +1,6 @@
+EmployeeID,Satisfaction,WorkLifeBalance,Attrition,Gender,JobRole,Department,MonthlyIncome,YearsAtCompany
+1,high,1,yes,Male,Sales Exec,Sales,5000,2
+2,med,2,no,Female,HR,HR,4500,3
+3,Low,Better,Y,Female,Engineer,Tech,6200,5
+4,H,Best,0,Male,Manager,Sales,7100,8
+5,Medium,Bad,1,Male,Engineer,Tech,5800,1
